@@ -1,6 +1,6 @@
-# Booking
+# Cicil Assessment
 
-Welcome to the booking repository.
+Welcome to the cicil repository.
 
 ## Overview
 
@@ -9,7 +9,7 @@ This project is designed to develop login and create account page for the lender
 ## Features
 
 - **Login and Register page**: Allows regular user to have an account.
-- **Chat Page**: Allows regular users to chat with admin.
+- **Splash Page**: Take users to either Login page or (Lender page or Borrower page) depending on internet connection.
 ## Technologies
 
 - [Flutter](https://flutter.dev/)
